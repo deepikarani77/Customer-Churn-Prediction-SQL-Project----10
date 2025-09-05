@@ -4,11 +4,11 @@
 
 🚀 **Problem Statement**
 
--	Customer churn is a critical problem for subscription-based businesses. Losing customers means revenue loss. Companies need real-time systems to track customer activities, automate actions, and analyze churn behavior.
+Customer churn is a critical problem for subscription-based businesses. Losing customers means revenue loss. Companies need real-time systems to track customer activities, automate actions, and analyze churn behavior.
 
 🚀 **Solution**
 
--	I designed a normalized SQL database for churn prediction, then use stored procedures, triggers, loops, conditional statements, error handling, and cursors to:
+I designed a normalized SQL database for churn prediction, then use stored procedures, triggers, loops, conditional statements, error handling, and cursors to:
 -	Automate churn alerts
 -	Track updates
 -	Enforce business rules
@@ -36,11 +36,11 @@
 18.	Stored program security 
 19.	SQL trigger 
 20.	Terminating stored procedure and loops
--	Leave statement with stored procedure
--	Leave with loop statement
--	Leave with while loop
--	Leave with repeat loop
-21.	Stored functions in stored procedure
+21. Leave statement with stored procedure
+22. Leave with loop statement
+23. Leave with while loop
+24. Leave with repeat loop
+25. Stored functions in stored procedure
 
 🚀 **Goal**: 
 

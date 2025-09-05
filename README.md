@@ -1,3 +1,126 @@
+✨ **Excited to share my latest project!** ✨
+  
+**Customer Churn Prediction SQL Project using Stored Procedures, Triggers & Database Programming**
+
+🚀 **Problem Statement**
+
+-	Customer churn is a critical problem for subscription-based businesses. Losing customers means revenue loss. Companies need real-time systems to track customer activities, automate actions, and analyze churn behavior.
+
+🚀 **Solution**
+
+-	I designed a normalized SQL database for churn prediction, then use stored procedures, triggers, loops, conditional statements, error handling, and cursors to:
+-	Automate churn alerts
+-	Track updates
+-	Enforce business rules
+-	Run predictive queries
+  
+🚀 **concepts used in this project**.
+
+1.	Stored procedure and triggers in SQL
+2.	advantages and working 
+3.	Statements
+4.	compound 
+5.	conditional 
+6.	if , if then , if then else, if then else if else 
+7.	case, simple case, searched case 
+8.	Loop statement 
+9.	while, repeat , leave 
+10.	Using leave with 
+11.	stored procedure 
+12.	loop statements
+13.	Error handling in stored procedures
+14.	raising errors 
+15.	Cursors in stored procedures 
+16.	steps to use cursors 
+17.	Stored functions in stored procedures 
+18.	Stored program security 
+19.	SQL trigger 
+20.	Terminating stored procedure and loops
+-	Leave statement with stored procedure
+-	Leave with loop statement
+-	Leave with while loop
+-	Leave with repeat loop
+21.	Stored functions in stored procedure
+
+🚀 **Goal**: 
+
+-	Build an automated SQL-based churn management system where churn analysis is not just done by queries, but by real-time SQL programs (procedures, triggers, functions) to increase customer retention.
+
+
+🚀 **What I learnt**?
+
+-	Database: MySQL 8+
+-	Tools: MySQL Workbench / phpMyAdmin
+-	Dataset: Customer Churn Data (customers, contracts, services, churn status)
+
+🚀 **What is impact**?
+
+-	Stored Procedures
+-	Triggers
+-	Control Statements (IF, CASE, WHILE, REPEAT, LOOP)
+-	Error Handling & Raising Errors
+-	Cursors
+-	Stored Functions
+-	Security in Stored Programs
+
+
+🚀 **Key Skills Used**
+
+-	Database Normalization
+-	Writing complex SQL stored programs
+-	Error handling in SQL
+-	Real-time event automation with triggers
+-	Using cursors & loops for churn reports
+-	Applying SQL conditions (if, case, while, repeat, leave)
+-	Stored function integration in procedures
+
+🚀 **What I Did in this Project**?
+ 	
+-	Designed a normalized customer churn database
+-	Created stored procedures for churn prediction
+-	Built triggers for real-time churn tracking
+-	Used cursors, loops, conditions, case statements for reports
+-	Implemented error handling & stored functions
+
+🚀 **What I Learnt**?
+   
+-	Writing stored procedures, triggers, and functions in SQL
+-	Handling real-time automation using SQL programming
+-	Importance of conditional, looping, and error-handling in procedures
+-	Building production-ready SQL programs
+  
+🚀 **What is Impact** ?
+ 	
+-	Businesses can predict churn automatically
+-	Reduced manual monitoring (triggers do it in real-time)
+-	Improved retention strategies with customer segments
+-	Error handling ensures system stability
+-	Professional SQL skills → makes you job-ready as a Data Scientist with SQL expertise
+
+🚀 **Skills**
+   
+-	SQL Stored Procedures
+-	SQL Triggers
+-	Cursors & Error Handling
+-	SQL Programming Logic
+-	Customer Churn Analytics
+
+**#SQLProject #CustomerChurn #StoredProcedures #SQLTriggers #DataScienceSQL #MySQL #DatabaseNormalization #SQLAutomation #Cursors #ErrorHandling #ChurnPrediction #FresherDataScientist #JobReadySkills**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Stored procedure and triggers in SQL**
 
